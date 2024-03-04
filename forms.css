@@ -1,0 +1,80 @@
+.principal{
+    width: 70%;
+    height: 60vh;
+    border: solid black 2px;
+    margin: 100px auto;  
+}
+
+.title{
+    height: 60px;
+    background-color: rgba(128, 128, 128, 0.205);
+}
+.title h1{
+    margin-left: 10px;
+}
+
+.alert{
+    margin: 15px 15px 5px 15px;
+}
+
+.fieldsets{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px ;
+    margin-right: 15px;
+
+}
+
+.fieldsets fieldset{
+    display: flex;
+    flex-direction: column;
+}
+
+.divi{
+    display: flex;
+}
+
+.date1{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.date2{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.fpagos{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:start;
+    background-color: grey;
+    width: 45%;
+}
+
+.fpagos label{
+    padding: 10px;
+
+}
+
+.divi2{
+    display: flex;
+}
+
+.botones{
+    display: flex;
+    justify-content: end;
+    margin-right: 15px;
+}
+
+.b2{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
